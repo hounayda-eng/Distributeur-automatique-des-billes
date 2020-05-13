@@ -1,0 +1,21 @@
+Des remarques :
+*pour éxcecuter l'application il faut changer les chemins des fichiers dans le code suivant leurs emplacement dans votre ordinateur :
+
+fichier compte : dans la classe DAB.java ==> ligne 81
+
+fichier enregistrement : dans la classe DAB.java ==> ligne 1773
+
+
+fichier guichet_1 : dans la classe guichet.java ==> ligne  72+79+39+45
+fichier guichet_2 : dans la classe guichet.java ==> ligne   81+47
+fichier guichet_3 : dans la classe guichet.java ==> ligne   83+49
+fichier guichet_4 : dans la classe guichet.java ==> ligne   85+51
+fichier guichet_5 : dans la classe guichet.java ==> ligne   87+53
+fichier guichet_6 : dans la classe guichet.java ==> ligne   89+55
+
+
+
+
+
+ 
+   
